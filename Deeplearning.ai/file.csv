@@ -1,0 +1,11 @@
+PlantID,Name,Type,Height_cm,Sunlight
+1,Rose,Flowering,45,Full Sun
+2,Basil,Herb,30,Partial Sun
+3,Fern,Foliage,60,Shade
+4,Tomato,Vegetable,100,Full Sun
+5,Lavender,Herb,40,Full Sun
+6,Snake Plant,Foliage,75,Low Light
+7,Sunflower,Flowering,150,Full Sun
+8,Spinach,Vegetable,35,Partial Sun
+9,Mint,Herb,25,Partial Sun
+10,Peace Lily,Foliage,55,Low Light
